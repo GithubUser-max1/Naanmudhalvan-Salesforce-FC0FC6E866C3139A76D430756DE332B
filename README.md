@@ -25,3 +25,5 @@ Leverage Salesforce's AI-driven insights to identify growth opportunities, optim
 
 Conclusion
 Implementing a Salesforce CRM for mall management offers a centralized platform to enhance operational efficiency and customer engagement. It enables mall managers to make data-driven decisions, improve tenant and customer satisfaction, and maximize revenue. By leveraging Salesforce's customizable and scalable solutions, mall administrators can effectively adapt to changing market dynamics and ensure sustainable growth.
+
+https://drive.google.com/file/d/13ndKs4QPq8TTeE1GdjawiI3b0tTbiJps/view?usp=sharing
